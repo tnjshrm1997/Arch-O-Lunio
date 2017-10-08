@@ -41,6 +41,7 @@ a, a:hover, a:active{ outline:0px !important}
   font-style: normal;
 }
 
+
 /* Primary Styles
 ---------------------------------*/
 body {
@@ -242,12 +243,12 @@ color: #fff;
 }
 .container p{
   font-size: 19px;
-  
+
 }
 .container-fluid p{
     font-size: 19px;
     font-weight: normal;
-    
+
 
 }
 .alabaster p{
